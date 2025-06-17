@@ -1,2 +1,2 @@
-# https-github.com-CNN-sarah.rede.neural-repositorio
+# https-github.com.CNN.sarah.rede.neural
 CNN.MINIST
